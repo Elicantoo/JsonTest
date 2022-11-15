@@ -1,0 +1,19 @@
+{
+  "Collect": [
+    {
+      "collectableName": "gold",
+      "moneyEarned": 5,
+      "special": true
+    },
+    {
+      "collectableName": "diamond",
+      "moneyEarned": 10,
+      "special": true
+    },
+    {
+      "collectableName": "charcoal",
+      "moneyEarned": 1,
+      "special": false
+    }
+  ]
+}
